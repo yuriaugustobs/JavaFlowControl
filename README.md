@@ -1,18 +1,15 @@
-## Getting Started
+# Java Flow Control
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## Descrição
 
-## Folder Structure
+O **Java Flow Control** é uma aplicação Java desenvolvida para praticar e demonstrar o controle de fluxo em programação. O projeto contém exemplos de diferentes estruturas de controle, como condicionais e loops, permitindo que os desenvolvedores compreendam melhor como essas estruturas funcionam na linguagem Java.
 
-The workspace contains two folders by default, where:
+## Funcionalidades
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Exemplos de estruturas condicionais (if, switch).
+- Exemplos de loops (for, while, do-while).
+- Demonstrações de controle de fluxo com base em condições específicas.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Tecnologias Utilizadas
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- **Java SE**: A linguagem de programação utilizada para desenvolver a aplicação.
